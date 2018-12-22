@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include <windows.h>
 using namespace std;
-
 int xw = -1920;
 
 BOOL  CALLBACK  EnumWndProc(HWND hWnd, LPARAM lParam)
